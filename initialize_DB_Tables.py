@@ -9,7 +9,7 @@
 import sqlite3
 
 # SQLite DB Name
-DB_Name =  "IoT.db"
+DB_Name =  "jal2018.db"
 
 # SQLite DB Table Schema
 TableSchema="""
